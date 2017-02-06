@@ -1,32 +1,100 @@
-usage: git [--version] [--help] [-C <path>] [-c name=value]
-           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
-           [-p|--paginate|--no-pager] [--no-replace-objects] [--bare]
-           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
-           <command> [<args>]
+### Dmitry Soloviev
 
-The most commonly used git commands are:
-   add        Add file contents to the index
-   bisect     Find by binary search the change that introduced a bug
-   branch     List, create, or delete branches
-   checkout   Checkout a branch or paths to the working tree
-   clone      Clone a repository into a new directory
-   commit     Record changes to the repository
-   diff       Show changes between commits, commit and working tree, etc
-   fetch      Download objects and refs from another repository
-   grep       Print lines matching a pattern
-   init       Create an empty Git repository or reinitialize an existing one
-   log        Show commit logs
-   merge      Join two or more development histories together
-   mv         Move or rename a file, a directory, or a symlink
-   pull       Fetch from and integrate with another repository or a local branch
-   push       Update remote refs along with associated objects
-   rebase     Forward-port local commits to the updated upstream head
-   reset      Reset current HEAD to the specified state
-   rm         Remove files from the working tree and from the index
-   show       Show various types of objects
-   status     Show the working tree status
-   tag        Create, list, delete or verify a tag object signed with GPG
+**Senior Java Engineer**
 
-'git help -a' and 'git help -g' lists available subcommands and some
-concept guides. See 'git help <command>' or 'git help <concept>'
-to read about a specific subcommand or concept.
+*5 Teremkivska str. Kiev, Ukraine*
+
+*dgsoloviev.job@gmail.com*
+
+*+38(O66) 328 2836*
+
+**Summary**
+
+Design; Development; Java EE (Core, Spring-boot, CDI, OSGI); 
+
+Apache and Red Hat Java middle-ware; 
+
+Hands on with oracle db, ms sqlserver, Mysql, PostgreSQL, Mongo-db, Influx-db; Linux; Dev Ops; automation; virtualization; Docker; AWS; soulaway at github.
+
+**Java Experience**
+
+- Java Programmer, Luxoft, Kiev, 2014– 2016 (1y. 10 m.)
+
+Design and implementation of the Smart Grid micro services for Alstom and General Electric, that do time-series processing, forecasting, demand response. Mentoring of the distributed team, software architecture, design and devopsing; three green projects go live.
+
+- Java OSGI Engineer, Nova Poshta, Kiev, 2014 – 2014 (10 m.)
+
+Integration of the OSGI Service Bus (RedHet Jboss Fuse) onto quickly extending, logistic company. Implementation of the sms router service through Apache and RadHat java OSGI stack.
+
+- Java Software Developer, Darout LLC, Saint Petersburg, 2012 –2014 (1,4 y.)
+
+Development of the retail business logic at ERP system for Bison Schweiz AG. Java EE application development.
+
+**Other Experience**
+
+- IPTV and cable TV UI developer, Zodiac Interactive, Saint Petersburg, 2010 –2012 (2 y.)
+
+UI Development for huge amount of customers. Front-end applications and services development for Set Top Boxes, provided by CISCO and Scientific-Atlanta and powered by Zodiac PowerUp platform. 
+
+- Junior Scientist, Ukrainian State Scientific Research Surveyor Institute, Donetsk, 2004 – 2008 (4 y.)
+
+Collection and analysis of geophysical data; Measurements of electrical, seismic, magnetic waves reflected from terrestrial bodies. Predicting of the violations in the earth's crust, determination the structure of the medium by the measured characteristics of of an electric field. Publications of the researches.
+
+**Education**
+
+M.A.Sc. in Computer Information Technologies and Automatics Faculty, Donetsk National Technical University 2001 – 2006. Graduated in Automatic Systems of Management, qualified as Computer Sciences specialist, GPA 4.8 (5max)
+
+**Tech Stack**
+
+- JavaScript frameworks: *NodeJS, AngularJS, Bootstrap*
+
+- Java frameworks: 
+
+Front End: *JSF (JSP, Reach Faces, Prime Faces)*
+
+Integration: *Spring, Jboss Seam, Apache Camel*
+
+Servlets: *Apache CXF, Jboss RestEasy, Oracle Jersey, Apache Spark*
+
+DI: *Java CDI API, Spring Context/Beans, Apache Blueprint, Google Guice*
+
+Data HTTP bindings: *Soap(JaxB); Rest(Jackson, Gson)*
+
+
+- Java Enterprise runtime:
+
+ESB (OSGI): *Apache Karaf, Jboss Fuse*
+
+Java App. Servers: *Jboss AS, Jboss EAP*
+
+Servlet Containers: *Jetty, Tomcat*
+
+HTTP Servers: *apache, Grezzly*
+
+XMPP Servers: *Vysper, Openfire*
+
+- Databases:
+
+Bindings: *Jpa, Hibernate, Spring Data*
+
+Sql: *Oracle, SqlServer, MySql, PostgreSQL*
+
+NoSql: *Mongo, Cassandra, InfluxDB*
+
+Index Engine: *Apache Solr (full text search)*
+
+- Tools:
+
+Drools, FortifyUtills, Swagger
+
+- Testing:
+
+JUnit, Arquilian, Jacoco, Soap/LoadUI, Selenium, JMH;
+
+- Monitoring:
+
+Jconsole, Visual VM, Jolokia, Howtio
+
+- Dev Ops:
+
+Ant, Maven, Docker, Jenkins, Teamcity, Nexus
