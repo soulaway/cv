@@ -1,4 +1,4 @@
-### Dmitry Soloviev
+## Dmitry Soloviev
 
 **Senior Java Engineer**
 
@@ -10,25 +10,25 @@
 
 **Summary**
 
-Design; Development; Java EE (Core, Spring-boot, CDI, OSGI); 
+Java EE (Core, Spring-boot, CDI, OSGI); 
 
 Apache and Red Hat Java middle-ware; 
 
-Hands on with oracle db, ms sqlserver, Mysql, PostgreSQL, Mongo-db, Influx-db; Linux; Dev Ops; automation; virtualization; Docker; AWS; soulaway at github.
+Linux; Docker; AWS; 
 
 **Java Experience**
 
 - Java Programmer, Luxoft, Kiev, 2014– 2016 (1y. 10 m.)
 
-Design and implementation of the Smart Grid micro services for Alstom and General Electric, that do time-series processing, forecasting, demand response. Mentoring of the distributed team, software architecture, design and devopsing; three green projects go live.
+Design and implementation of the Smart Grid micro services for Alstom and General Electric, that do time-series processing, forecasting, demand response. Mentoring of the distributed team, software architecture, design and devopsing; three green projects go live. (Java EE: Jboss, tomcat; CDI-API/Spring; Oracle db/Influx db, RedHat/Centos)
 
 - Java OSGI Engineer, Nova Poshta, Kiev, 2014 – 2014 (10 m.)
 
-Integration of the OSGI Service Bus (RedHet Jboss Fuse) onto quickly extending, logistic company. Implementation of the sms router service through Apache and RadHat java OSGI stack.
+Integration of the OSGI Service Bus (RedHet Jboss Fuse) onto quickly extending, logistic company. Implementation of the sms router service through Apache and RadHat java OSGI stack (Zookeeper, Fabric8, Fuse, Camel, MSSql).
 
 - Java Software Developer, Darout LLC, Saint Petersburg, 2012 –2014 (1,4 y.)
 
-Development of the retail business logic at ERP system for Bison Schweiz AG. Java EE application development.
+Development of the retail business logic at ERP system for Bison Schweiz AG. Java EE application development. (Reach client based on Eclipse, Jboss AS, Oracle db)
 
 **Other Experience**
 
