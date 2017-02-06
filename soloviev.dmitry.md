@@ -46,55 +46,55 @@ M.A.Sc. in Computer Information Technologies and Automatics Faculty, Donetsk Nat
 
 **Tech Stack**
 
-- JavaScript frameworks: *NodeJS, AngularJS, Bootstrap*
+* JavaScript frameworks: *NodeJS, AngularJS, Bootstrap*
 
-- Java frameworks: 
+* Java frameworks: 
 
-Front End: *JSF (JSP, Reach Faces, Prime Faces)*
+  * Front End: *JSF (JSP, Reach Faces, Prime Faces)*
 
-Integration: *Spring, Jboss Seam, Apache Camel*
+  * Integration: *Spring, Jboss Seam, Apache Camel*
 
-Servlets: *Apache CXF, Jboss RestEasy, Oracle Jersey, Apache Spark*
+  * Servlets: *Apache CXF, Jboss RestEasy, Oracle Jersey, Apache Spark*
 
-DI: *Java CDI API, Spring Context/Beans, Apache Blueprint, Google Guice*
+  * DI: *Java CDI API, Spring Context/Beans, Apache Blueprint, Google Guice*
 
-Data HTTP bindings: *Soap(JaxB); Rest(Jackson, Gson)*
+  * Data HTTP bindings: *Soap(JaxB); Rest(Jackson, Gson)*
 
 
-- Java Enterprise runtime:
+* Java Enterprise runtime:
 
-ESB (OSGI): *Apache Karaf, Jboss Fuse*
+  * ESB (OSGI): *Apache Karaf, Jboss Fuse*
 
-Java App. Servers: *Jboss AS, Jboss EAP*
+  * Java App. Servers: *Jboss AS, Jboss EAP*
 
-Servlet Containers: *Jetty, Tomcat*
+  * Servlet Containers: *Jetty, Tomcat*
 
-HTTP Servers: *apache, Grezzly*
+  * HTTP Servers: *apache, Grezzly*
 
-XMPP Servers: *Vysper, Openfire*
+  * XMPP Servers: *Vysper, Openfire*
 
-- Databases:
+* Databases:
 
-Bindings: *Jpa, Hibernate, Spring Data*
+  * Bindings: *Jpa, Hibernate, Spring Data*
 
-Sql: *Oracle, SqlServer, MySql, PostgreSQL*
+  * Sql: *Oracle, SqlServer, MySql, PostgreSQL*
 
-NoSql: *Mongo, Cassandra, InfluxDB*
+  * NoSql: *Mongo, Cassandra, InfluxDB*
 
-Index Engine: *Apache Solr (full text search)*
+  * Index Engine: *Apache Solr (full text search)*
 
-- Tools:
+* Tools:
 
-Drools, FortifyUtills, Swagger
+  * Drools, FortifyUtills, Swagger
 
-- Testing:
+* Testing:
 
-JUnit, Arquilian, Jacoco, Soap/LoadUI, Selenium, JMH;
+  * JUnit, Arquilian, Jacoco, Soap/LoadUI, Selenium, JMH;
 
-- Monitoring:
+* Monitoring:
 
-Jconsole, Visual VM, Jolokia, Howtio
+  * Jconsole, Visual VM, Jolokia, Howtio
 
-- Dev Ops:
+* Dev Ops:
 
-Ant, Maven, Docker, Jenkins, Teamcity, Nexus
+  * Ant, Maven, Docker, Jenkins, Teamcity, Nexus
