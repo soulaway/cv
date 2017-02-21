@@ -10,25 +10,33 @@
 
 **Summary**
 
-Java EE (Core, Spring-boot, CDI, OSGI); 
+I am inclined to choose the concept of Microservices despite the charms of the monolithic Application Servers; 
+I have successfully used the codegen tools in production that decrease development time cost over 30%. 
+I prefer Scrum, communication and commitment - by all means.
 
-Apache and Red Hat Java middle-ware; 
+REST API, Messaging, Scalable, High avaliable, High load;
 
-Linux; Docker; AWS; 
+Java EE stack (EJB, JMS, CDI, JTA, Servlets, JSF) over JBoss implementation.   
+Experienced in Apache OSGI stack, hands-on with Zookeeper, Karaf, Camel, AMQ, CXF, JBossFuse, Hawt.io
+Practitioner the Spring, Spring-boot, Apache Camel and Swagger.
+
+Linux, Windows
+
+Docker and AWS independent researcher and happy user.
 
 **Java Experience**
 
-- Java Programmer, Luxoft, Kiev, 2014– 2016 (1y. 10 m.)
+- Java Programmer, Luxoft, Kiev, 12.2014 – 09.2016 (1y. 10 m.)
 
 Design and implementation of the Smart Grid micro services for Alstom and General Electric, that do time-series processing, forecasting, demand response. Mentoring of the distributed team, software architecture, design and devopsing; three green projects go live. (Java EE: Jboss, tomcat; CDI-API/Spring; Oracle db/Influx db, RedHat/Centos)
 
-- Java OSGI Engineer, Nova Poshta, Kiev, 2014 – 2014 (10 m.)
+- Java OSGI Engineer, Nova Poshta, Kiev, 03.2014 – 12.2014 (10 m.)
 
 Integration of the OSGI Service Bus (RedHet Jboss Fuse) onto quickly extending, logistic company. Implementation of the sms router service through Apache and RadHat java OSGI stack (Zookeeper, Fabric8, Fuse, Camel, MSSql).
 
-- Java Software Developer, Darout LLC, Saint Petersburg, 2012 –2014 (1,4 y.)
+- Java Software Developer, Darout LLC, Saint Petersburg, 12.2012–02.2014(1,4 y.)
 
-Development of the retail business logic at ERP system for Bison Schweiz AG. Java EE application development. (Reach client based on Eclipse, Jboss AS, Oracle db)
+Development of the retail business logic at ERP system for Bison Schweiz AG. Java EE application development. (Reach client based on Eclipse, Jboss AS, Oracle db, Bison Java midlware)
 
 **Other Experience**
 
