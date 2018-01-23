@@ -26,6 +26,7 @@ Docker and AWS independent researcher and happy user.
 
 **Java Experience**
 - Java Archetect, Crossover, Remote, 07.2017 – till present
+
 contributing for Upland Software as a fullstack of the Waterfall platform
 https://uplandsoftware.com/mobile-messaging/product/platform/
 doing both frontend (Angulr, Vue, Knockout) and back-end Java 7,8 (Karaf, Gucie, Spring, Dropwizard) tasks in mobile messaging across huge subscribers audience. Data in Mongo and Mysql. Assembling using maven/jenkins/ancible hosting on AWS unix boxes
