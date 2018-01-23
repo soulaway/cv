@@ -1,6 +1,6 @@
 ## Dmitry Soloviev
 
-**Senior Java Engineer**
+**Java full-stack archetect**
 
 *5 Teremkivska str. Kiev, Ukraine*
 
@@ -25,6 +25,10 @@ Linux, Windows
 Docker and AWS independent researcher and happy user.
 
 **Java Experience**
+- Java Archetect, Crossover, Remote, 07.2017 – till present
+contributing for Upland Software as a fullstack of the Waterfall platform
+https://uplandsoftware.com/mobile-messaging/product/platform/
+doing both frontend (Angulr, Vue, Knockout) and back-end Java 7,8 (Karaf, Gucie, Spring, Dropwizard) tasks in mobile messaging across huge subscribers audience. Data in Mongo and Mysql. Assembling using maven/jenkins/ancible hosting on AWS unix boxes
 
 - Java Programmer, Luxoft, Kiev, 12.2014 – 09.2016 (1y. 10 m.)
 
@@ -105,4 +109,4 @@ M.A.Sc. in Computer Information Technologies and Automatics Faculty, Donetsk Nat
 
 * Dev Ops:
 
-  * Ant, Maven, Docker, Jenkins, Teamcity, Nexus
+  * Ant, Maven, Docker, Jenkins, Teamcity, Nexus, Ancible
