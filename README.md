@@ -56,9 +56,9 @@ Collection and analysis of geophysical data; Measurements of electrical, seismic
 
 M.A.Sc. in Computer Information Technologies and Automatics Faculty, Donetsk National Technical University 2001 – 2006. Graduated in Automatic Systems of Management, qualified as Computer Sciences specialist, GPA 4.8 (5max)
 
-* Tech Stack
+**Tech Stack**
 
-  * JavaScript frameworks: NodeJS, AngularJS, Vue.js, Bootstrap, Mongo scripting;
+* JavaScript frameworks: NodeJS, AngularJS, Vue.js, Bootstrap, Mongo scripting;
 
 * Java frameworks:
 
