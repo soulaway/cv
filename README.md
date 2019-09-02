@@ -8,9 +8,7 @@
 
 *+38(O66) 328 2836*
 
-**Summary**
-
-Summary
+**Summary:**
 
 I prefer the charms of distributed microservices to the concept of the monolithic application servers; 
 Wrupped up several java projects from scratch as well as refactor legacy projects to fit necessary business needs;
@@ -26,7 +24,7 @@ Experienced in Apache OSGI stack, hands-on with Karaf, Camel, AMQ, CXF, JBossFus
 Practitioner the Spring, Spring-boot, Apache Camel and Swagger.
 Independent researcher and happy user of Docker and AWS.
 
-Java development experience:
+**Java development experience:**
 
 Java Archetect in Crossover, remote work. 
 From 07.2017 – till present I'm contributing for Upland Software as a Fullstack Java Archetect of the Waterfall platform https://uplandsoftware.com/mobile-messaging/product/platform/ doing tasks in back-end using Java 7, 8 (Karaf, Gucie, Spring, Dropwizard) as well as tasks in JS front-end (Angulr, Vue, Knockout) for mobile messaging across huge subscribers audience. 
@@ -44,15 +42,17 @@ Integration of the OSGI Service Bus (RedHet Jboss Fuse) onto quickly extending, 
 Java Software Developer, Darout LLC, Saint Petersburg, 12.2012–02.2014(1,4 y.)
 Development of the retail business logic at ERP system for Bison Schweiz AG. Java EE application development. (Reach client based on Eclipse, Jboss AS, Oracle db, Bison Java midlware)
 
-IPTV Development Experience
+**IPTV Development Experience**
 
 IPTV and cable TV UI developer, Zodiac Interactive, Saint Petersburg, 2010 –2012 (2 y.)
 UI Development for huge amount of customers. Front-end applications and services development for Set Top Boxes, provided by CISCO and Scientific-Atlanta and powered by Zodiac PowerUp platform.
 
+**Other Experience**
+
 Junior Scientist, Ukrainian State Scientific Research Surveyor Institute, Donetsk, 2004 – 2008 (4 y.)
 Collection and analysis of geophysical data; Measurements of electrical, seismic, magnetic waves reflected from terrestrial bodies. Predicting of the violations in the earth's crust, determination the structure of the medium by the measured characteristics of of an electric field. Publications of the researches.
 
-Education
+**Education**
 
 M.A.Sc. in Computer Information Technologies and Automatics Faculty, Donetsk National Technical University 2001 – 2006. Graduated in Automatic Systems of Management, qualified as Computer Sciences specialist, GPA 4.8 (5max)
 
