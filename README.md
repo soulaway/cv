@@ -56,56 +56,56 @@ Education
 
 M.A.Sc. in Computer Information Technologies and Automatics Faculty, Donetsk National Technical University 2001 – 2006. Graduated in Automatic Systems of Management, qualified as Computer Sciences specialist, GPA 4.8 (5max)
 
-Tech Stack
+* Tech Stack
 
-JavaScript frameworks: NodeJS, AngularJS, Vue.js, Bootstrap, Mongo scripting;
+  * JavaScript frameworks: NodeJS, AngularJS, Vue.js, Bootstrap, Mongo scripting;
 
-Java frameworks:
+* Java frameworks:
 
-Front End: JSF (JSP, Reach Faces, Prime Faces)
+  * Front End: JSF (JSP, Reach Faces, Prime Faces)
 
-Integration: Spring, Spring Boot, Jboss Seam, Apache Camel
+  * Integration: Spring, Spring Boot, Jboss Seam, Apache Camel
 
-Servlets: Apache CXF, Jboss RestEasy, Oracle Jersey, Apache Spark
+  * Servlets: Apache CXF, Jboss RestEasy, Oracle Jersey, Apache Spark
 
-DI: Java CDI API, Spring Context/Beans, Apache Blueprint, Google Guice
+  * DI: Java CDI API, Spring Context/Beans, Apache Blueprint, Google Guice
 
-Data HTTP bindings: Soap(JaxB); Rest(Jackson, Gson)
+  * Data HTTP bindings: Soap(JaxB); Rest(Jackson, Gson)
 
-Java Enterprise runtime:
+* Java Enterprise runtime:
 
-ESB (OSGI): Apache Karaf, Jboss Fuse
+  * ESB (OSGI): Apache Karaf, Jboss Fuse
 
-Java App. Servers: Jboss AS, Jboss EAP
+  * Java App. Servers: Jboss AS, Jboss EAP
 
-Servlet Containers: Jetty, Tomcat
+  * Servlet Containers: Jetty, Tomcat
 
-HTTP Servers: Apache, Grezzly
+  * HTTP Servers: Apache, Grezzly
 
-XMPP Servers: Vysper, Openfire
+  * XMPP Servers: Vysper, Openfire
 
-SMPPSim server;
+  * SMPPSim server;
 
-Databases:
+* Databases:
 
-Bindings: Jpa, Hibernate, Spring Data, Morphia (Mongo ODM)
+  * Bindings/ORM: Jpa, Hibernate, Spring Data, Morphia (Mongo ODM)
 
-Sql: Oracle, SqlServer, MySql, PostgreSQL
+  * Sql: Oracle, SqlServer, MySql, PostgreSQL
 
-NoSql: Mongo, Cassandra, InfluxDB
+  * NoSql: Mongo, Cassandra, InfluxDB
 
-Index Engine: Apache Solr (full text search)
+  * Index Engine: Apache Solr (full text search)
 
-Build Tools:
+* Build Tools:
 
-Ant, Maven, Grunt, Drools, FortifyUtills, Swagger, AWS Code-Pipeline
+  * Ant, Maven, Grunt, Drools, FortifyUtills, Swagger, AWS Code-Pipeline
 
-Testing:
+* Testing:
 
-JUnit, Arquilian, PAX-web, Jacoco, Soap/LoadUI, Selenium, JMH;
+  * JUnit, Arquilian, PAX-web, Jacoco, Soap/LoadUI, Selenium, JMH;
 
-Monitoring:
-Jconsole, Visual VM, Jolokia, Howtio, Kibana, Datadog
+* Monitoring:
+  * Jconsole, Visual VM, Jolokia, Howtio, Kibana, Datadog
 
-Dev Ops:
-AWS (EC2, CLI, S3); Docker, Jenkins, Teamcity, Nexus, Ancible, bash scripting.
+* Dev Ops:
+  * AWS (EC2, CLI, S3); Docker, Jenkins, Teamcity, Nexus, Ancible, bash scripting.
