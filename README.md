@@ -10,19 +10,19 @@
 
 **Summary:**
 
-I prefer the charms of distributed microservices to the concept of the monolithic application servers; 
-Wrupped up several java projects from scratch as well as refactor legacy projects to fit necessary business needs;
-Have successfully using of the codegen tools, such as Swagger, that decrease development time cost over 30%.
+Passionate WEB Archetect with rich Java fullstack background. I'm focusing on following and sharing the best practices in software development.
 
-I'm good in linux ecosystem, prefer AWS, experienced in TLS and SSL stuff and may adjust any kind of environment or CI for the team.
-I prefer Scrum play, agile communications and commitment by all means.
+Using KISS GRAS and SOLID daily doing my job, I wrupped up several java projects from scratch as well as refactor legacy projects to fit necessary business needs.
 
-As a software engeneer am experienced in REST API; realtime messaging; scalable, high avaliable and high load backend; modern JS front-end.
+Good in unix, networking and shell scripting, experienced in TLS and SSL stuff, I may adjust any kind of environment or CI for the team.
 
-Java EE stack (EJB, JMS, CDI, JTA, Servlets, JSF) with JBoss and Apache implementation.
-Experienced in Apache OSGI stack, hands-on with Karaf, Camel, AMQ, CXF, JBossFuse, Hawt.io, Zookeeper.
-Practitioner the Spring, Spring-boot, Apache Camel and Swagger.
-Independent researcher and happy user of Docker and AWS.
+As an engineer I'm aware of measure things and seeding value onto progect backlog, experienced in realtime messaging, scalable, high avaliable and high load systems with sweet and lightweight front-end.
+
+I prefer agile prctices and commitment by all means. Have successfully throw in the codegen tool (Swagger) onto one of my project, that decrease development time cost over 30%. I also prefer distributed and lightweight microservices to the monolithic application servers.
+
+Happy user and independent researcher of AWS, Kubernetes and Docker, I'm currently diggin in Ruby cuz working on some github templates.
+
+Having experience in mentoring and scrum mastering of the distributed multilingual agile team (Egypt, Georgia, US, India), I'l be ok to act as 60/40% archetect/scrum-master
 
 **Java development experience:**
 
