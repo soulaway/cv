@@ -27,10 +27,10 @@ Having experience in mentoring and scrum mastering of the distributed multilingu
 **Java development experience:**
 
 Java Archetect in Crossover, remote work. 
-From 07.2017 – till present I'm contributing for Upland Software as a Fullstack Java Archetect of the Waterfall platform https://uplandsoftware.com/mobile-messaging/product/platform/ doing tasks in back-end using Java 7, 8 (Karaf, Gucie, Spring, Dropwizard) as well as tasks in JS front-end (Angulr, Vue, Knockout) for mobile messaging across huge subscribers audience. 
+From 07.2017 – 08.2020 I were contributing for Upland Software as a Fullstack Java Archetect of the Waterfall platform https://uplandsoftware.com/mobile-messaging/product/platform/ doing tasks in back-end using Java 7, 8 (Karaf, Gucie, Spring, Dropwizard) as well as tasks in JS front-end (Angulr, Vue, Knockout) for mobile messaging across huge subscribers audience. 
 Data in Mongo and Mysql. Destributed Linux environments.
 Assembling using Maven and Grunt; Continious Integration on Jenkins/Ancible/Travis; hosting and networking over AWS.
-Within  two years I became to mentoring of destributed and multilingual team of developers and QA's (Georgia, Egypt, USA). 
+Within three years I became to mentoring of destributed and multilingual team of developers and QA's (Georgia, Egypt, USA). 
 I'm writing detailed design, documentation of archetectural concepts that is followed by successfull implementation.
 
 Java Programmer, Luxoft, Kiev, 12.2014 – 09.2016 (1y. 10 m.)
@@ -108,4 +108,4 @@ M.A.Sc. in Computer Information Technologies and Automatics Faculty, Donetsk Nat
   * Jconsole, Visual VM, Jolokia, Howtio, Kibana, Datadog
 
 * Dev Ops:
-  * AWS (EC2, CLI, S3); Docker, Jenkins, Teamcity, Nexus, Ancible, bash scripting.
+  * AWS (EC2, CLI, S3, Route53, Bastion); Docker, Jenkins, Teamcity, Nexus, Ancible, bash scripting.
