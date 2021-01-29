@@ -12,13 +12,14 @@
 
 Passionate WEB Archetect with rich Java fullstack background. I'm focusing on following and sharing the best practices in software development.
 
-Using KISS GRAS and SOLID daily doing my job, I wrupped up several java projects from scratch as well as refactor legacy projects to fit necessary business needs.
+Using KISS GRASP and SOLID daily doing my job, I wrupped up several java projects from scratch as well as digged in legacy projects to implement all the required from business needs.
 
 Good in unix, networking and shell scripting, experienced in TLS and SSL stuff, I may adjust any kind of environment or CI for the team.
 
 As an engineer I'm aware of measure things and seeding value onto progect backlog, experienced in realtime messaging, scalable, high avaliable and high load systems with sweet and lightweight front-end.
 
-I prefer agile prctices and commitment by all means. Have successfully throw in the codegen tool (Swagger) onto one of my project, that decrease development time cost over 30%. I also prefer distributed and lightweight microservices to the monolithic application servers.
+I prefer agile prctices and commitment by all means. Have successfully throw in the codegen tool (Swagger) onto one of my project, that decrease development time cost over 30%. 
+I also prefer distributed and lightweight microservices to the monolithic application servers.
 
 Happy user and independent researcher of AWS, Kubernetes and Docker, I'm currently diggin in Ruby cuz working on some github templates.
 
