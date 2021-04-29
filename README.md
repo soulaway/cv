@@ -21,7 +21,7 @@ As an engineer I'm aware of measure things and seeding value onto progect backlo
 I prefer agile prctices and commitment by all means. Have successfully throw in the codegen tool (Swagger) onto one of my project, that decrease development time cost over 30%. 
 I also prefer distributed and lightweight microservices to the monolithic application servers.
 
-Happy user and independent researcher of AWS, Kubernetes and Docker, I'm currently diggin in Ruby cuz working on some github templates.
+Happy user and independent researcher of AWS and Docker.
 
 Having experience in mentoring and scrum mastering of the distributed multilingual agile team (Egypt, Georgia, US, India), I'l be ok to act as 60/40% archetect/scrum-master
 
