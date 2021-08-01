@@ -1,6 +1,6 @@
 ## Dmitry Soloviev
 
-**Java full-stack archetect**
+**Java full-stack architect**
 
 *5 Teremkivska str. Kiev, Ukraine*
 
@@ -10,27 +10,26 @@
 
 **Summary:**
 
-Passionate WEB Archetect with rich Java fullstack background. I'm focusing on following and sharing the best practices in software development.
+Passionate WEB Architect with rich Java full-stack background. I'm focused to follow the best practices in software development and share more with my team.
 
-Using KISS GRASP and SOLID daily doing my job, I wrupped up several java projects from scratch as well as digged in legacy projects to implement all the required from business needs.
+I wrupped up several java projects from scratch as well as digged in legacy projects to implement all the required from business needs.
 
 Good in unix, networking and shell scripting, experienced in TLS and SSL stuff, I may adjust any kind of environment or CI for the team.
 
-As an engineer I'm aware of measure things and seeding value onto progect backlog, experienced in realtime messaging, scalable, high avaliable and high load systems with sweet and lightweight front-end.
+As an engineer, I'm excited in measuring things, and seeding the value onto progect's backlog. I'm experienced in scalable, highly available and high load systems with sweet and lightweight JS front-end.
+
+I prefer distributed and lightweight microservices more than monolithic application servers.
 
 I prefer agile prctices and commitment by all means. Have successfully throw in the codegen tool (Swagger) onto one of my project, that decrease development time cost over 30%. 
-I also prefer distributed and lightweight microservices to the monolithic application servers.
 
-Happy user and independent researcher of AWS and Docker.
-
-Having experience in mentoring and scrum mastering of the distributed multilingual agile team (Egypt, Georgia, US, India), I'l be ok to act as 60/40% archetect/scrum-master
+Having experience in mentoring and scrum mastering of the distributed multilingual agile team (Egypt, Georgia, US, India), I'l be happy to act as 40/20/40% developer/architect/scrum-master
 
 **Java development experience:**
 
 Java Archetect in Crossover, remote work. 
 From 07.2017 – 08.2020 I were contributing for Upland Software as a Fullstack Java Archetect of the Waterfall platform https://uplandsoftware.com/mobile-messaging/product/platform/ doing tasks in back-end using Java 7, 8 (Karaf, Gucie, Spring, Dropwizard) as well as tasks in JS front-end (Angulr, Vue, Knockout) for mobile messaging across huge subscribers audience. 
-Data in Mongo and Mysql. Destributed Linux environments.
-Assembling using Maven and Grunt; Continious Integration on Jenkins/Ancible/Travis; hosting and networking over AWS.
+Data in Mongo and Mysql. Destributed AWS environments.
+Assembling using Maven and Grunt; Continious Integration on Jenkins/Ancible/Travis; hosting and networking on AWS.
 Within three years I became to mentoring of destributed and multilingual team of developers and QA's (Georgia, Egypt, USA). 
 I'm writing detailed design, documentation of archetectural concepts that is followed by successfull implementation.
 
@@ -103,7 +102,7 @@ M.A.Sc. in Computer Information Technologies and Automatics Faculty, Donetsk Nat
 
 * Testing:
 
-  * JUnit, Arquilian, PAX-web, Jacoco, Soap/LoadUI, Selenium, JMH;
+  * JUnit, Arquilian, PAX-web, Jacoco, Soap/LoadUI, JMeter, Selenium, JMH;
 
 * Monitoring:
   * Jconsole, Visual VM, Jolokia, Howtio, Kibana, Datadog
