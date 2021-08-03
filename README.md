@@ -22,8 +22,7 @@ I prefer distributed and lightweight microservices more than monolithic applicat
 
 I prefer agile prctices and commitment by all means. Have successfully throw in the codegen tool (Swagger) onto one of my project, that decrease development time cost over 30%. 
 
-Having experience in mentoring and scrum mastering of the distributed multilingual agile team (Egypt, Georgia, US, India), I'l be happy to act as 40/20/40% developer/architect/scrum-master
-
+Having experience in mentoring and scrum mastering of the distributed multilingual agile team (Egypt, Georgia, US, India)
 **Java development experience:**
 
 Java Archetect in Crossover, remote work. 
