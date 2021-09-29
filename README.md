@@ -8,6 +8,8 @@
 
 *+38(O66) 328 2836*
 
+---
+
 **Summary:**
 
 Passionate WEB Architect with rich Java full-stack background. I'm focused to follow the best practices in software development and share more with my team.
@@ -24,43 +26,55 @@ I prefer agile prctices and commitment by all means. Have successfully throw in 
 
 Having experience in mentoring and scrum mastering of the distributed multilingual agile team (Egypt, Georgia, US, India)
 
+---
 
 **Java development experience:**
 
-Java Senior Developer, Luxoft, Kiev, 09.2020 – present time
-Developer of the Data Access Controll System of Refinitive (Thomson Reuters in the past). It is the industry’s most widely used system for managing data entitlement, usage and reporting across the enterprise. Customers use DACS to manage user entitlements, ensuring proper control and auditable records of which users and applications are entitled to publish data; and whether there are entitled users who are not using their data access. More info: https://developers.refinitiv.com/en/article-catalog/article/introduction-dacs-entitlement-system-opendacs-developers
+> Java Senior Developer, Luxoft, Kiev, 09.2020 – present time
+
+Developer of the [Data Access Controll System of Refinitive](https://developers.refinitiv.com/en/article-catalog/article/introduction-dacs-entitlement-system-opendacs-developers) (Thomson Reuters in the past). It is the industry’s most widely used system for managing data entitlement, usage and reporting across the enterprise. Customers use DACS to manage user entitlements, ensuring proper control and auditable records of which users and applications are entitled to publish data; and whether there are entitled users who are not using their data access.
 Java stack: Tomcat; JSP; openMQ; Oracle/postgre DB. OS: RedHat/Centos; shell scripting)
 Here I'm mostly fixing bugs, coding new features and doing alot of JVM monotoring and performance/stress testing.
 
-Java Archetect in Crossover, remote work (3 y.). 
-From 07.2017 – 08.2020 I were contributing for Upland Software as a Fullstack Java Archetect of the Waterfall platform https://uplandsoftware.com/mobile-messaging/product/platform/ doing tasks in back-end using Java 7, 8 (Karaf, Gucie, Spring, Dropwizard) as well as tasks in JS front-end (Angulr, Vue, Knockout) for mobile messaging across huge subscribers audience. 
+> Java Archetect in Crossover, remote work (3 y.). 
+
+From 07.2017 – 08.2020 I were contributing for Upland Software as a Fullstack Java Archetect of the [Waterfall platform](https://uplandsoftware.com/mobile-messaging/product/platform/) doing tasks in back-end using Java 7, 8 (Karaf, Gucie, Spring, Dropwizard) as well as tasks in JS front-end (Angulr, Vue, Knockout) for mobile messaging across huge subscribers audience. 
 Data in Mongo and Mysql. Destributed AWS environments.
 Assembling using Maven and Grunt; Continious Integration on Jenkins/Ancible/Travis; hosting and networking on AWS.
 Within three years I became to mentoring of destributed and multilingual team of developers and QA's (Georgia, Egypt, USA). 
 I'm writing detailed design, documentation of archetectural concepts that is followed by successfull implementation.
 
-Java Programmer, Luxoft, Kiev, 12.2014 – 09.2016 (1y. 10 m.)
+> Java Programmer, Luxoft, Kiev, 12.2014 – 09.2016 (1y. 10 m.)
+
 Design and implementation of the Smart Grid micro services for Alstom and General Electric, that do time-series processing, forecasting, demand response. Mentoring of the distributed team, software architecture, design and devopsing; three green projects go live. (Java EE: Jboss, tomcat; CDI-API/Spring; Oracle db/Influx db, RedHat/Centos)
 
-Java OSGI Engineer, Nova Poshta, Kiev, 03.2014 – 12.2014 (10 m.)
+> Java OSGI Engineer, Nova Poshta, Kiev, 03.2014 – 12.2014 (10 m.)
+
 Integration of the OSGI Service Bus (RedHet Jboss Fuse) onto quickly extending, logistic company. Implementation of the sms router service through Apache and RadHat java OSGI stack (Zookeeper, Fabric8, Fuse, Camel, MSSql).
 
-Java Software Developer, Darout LLC, Saint Petersburg, 12.2012–02.2014(1,4 y.)
+> Java Software Developer, Darout LLC, Saint Petersburg, 12.2012–02.2014(1,4 y.)
+
 Development of the retail business logic at ERP system for Bison Schweiz AG. Java EE application development. (Reach client based on Eclipse, Jboss AS, Oracle db, Bison Java midlware)
 
 **IPTV Development Experience**
 
-IPTV and cable TV UI developer, Zodiac Interactive, Saint Petersburg, 2010 –2012 (2 y.)
+> IPTV and cable TV UI developer, Zodiac Interactive, Saint Petersburg, 2010 –2012 (2 y.)
+
 UI Development for huge amount of customers. Front-end applications and services development for Set Top Boxes, provided by CISCO and Scientific-Atlanta and powered by Zodiac PowerUp platform.
+
+---
 
 **Other Experience**
 
-Junior Scientist, Ukrainian State Scientific Research Surveyor Institute, Donetsk, 2004 – 2008 (4 y.)
+> Junior Scientist, Ukrainian State Scientific Research Surveyor Institute, Donetsk, 2004 – 2008 (4 y.)
+
 Collection and analysis of geophysical data; Measurements of electrical, seismic, magnetic waves reflected from terrestrial bodies. Predicting of the violations in the earth's crust, determination the structure of the medium by the measured characteristics of of an electric field. Publications of the researches.
 
 **Education**
 
 M.A.Sc. in Computer Information Technologies and Automatics Faculty, Donetsk National Technical University 2001 – 2006. Graduated in Automatic Systems of Management, qualified as Computer Sciences specialist, GPA 4.8 (5max)
+
+---
 
 **Tech Stack**
 
