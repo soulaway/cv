@@ -56,13 +56,13 @@ Integration of the OSGI Service Bus (RedHet Jboss Fuse) onto quickly extending, 
 
 Development of the retail business logic at ERP system for Bison Schweiz AG. Java EE application development. (Reach client based on Eclipse, Jboss AS, Oracle db, Bison Java midlware)
 
+---
+
 **IPTV Development Experience**
 
 > IPTV and cable TV UI developer, Zodiac Interactive, Saint Petersburg, 2010 –2012 (2 y.)
 
-UI Development for huge amount of customers. Front-end applications and services development for Set Top Boxes, provided by CISCO and Scientific-Atlanta and powered by Zodiac PowerUp platform.
-
----
+UI Development for huge amount of customers. Front-end applications and services development for Set Top Boxes, provided by CISCO and Scientific-Atlanta and powered by Zodiac PowerUp platform, writing GUI animation and client-side business logic using Zodiac Script.
 
 **Other Experience**
 
