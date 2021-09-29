@@ -82,7 +82,7 @@ M.A.Sc. in Computer Information Technologies and Automatics Faculty, Donetsk Nat
 
 * Java frameworks:
 
-  * Front End: JSF (JSP, Reach Faces, Prime Faces)
+  * Front End: JSP, JSF (Reach Faces, Prime Faces)
 
   * Integration: Spring, Spring Boot, Jboss Seam, Apache Camel
 
@@ -94,17 +94,17 @@ M.A.Sc. in Computer Information Technologies and Automatics Faculty, Donetsk Nat
 
 * Java Enterprise runtime:
 
-  * ESB (OSGI): Apache Karaf, Jboss Fuse
+  * OSGI sercers: Apache Karaf, Jboss Fuse
 
   * Java App. Servers: Jboss AS, Jboss EAP
 
   * Servlet Containers: Jetty, Tomcat
 
-  * HTTP Servers: Apache, Grezzly
+  * NIO Servers: Apache Grezzly
 
   * XMPP Servers: Vysper, Openfire
 
-  * SMPPSim server;
+  * SMPP simulation: SMPPSim;
 
 * Databases:
 
@@ -125,7 +125,7 @@ M.A.Sc. in Computer Information Technologies and Automatics Faculty, Donetsk Nat
   * JUnit, Arquilian, PAX-web, Jacoco, Soap/LoadUI, JMeter, Selenium, JMH;
 
 * Monitoring:
-  * Jconsole, Visual VM, Jolokia, Howtio, Kibana, Datadog
+  * Jconsole, Visual VM, JProfiler, Jolokia, Howtio, Kibana, Datadog
 
 * Dev Ops:
   * AWS (EC2, CLI, S3, Route53, Bastion); Docker, Jenkins, Teamcity, Nexus, Ancible, bash scripting.
