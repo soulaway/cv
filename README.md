@@ -27,7 +27,12 @@ Having experience in mentoring and scrum mastering of the distributed multilingu
 
 **Java development experience:**
 
-Java Archetect in Crossover, remote work. 
+Java Senior Developer, Luxoft, Kiev, 09.2020 – present time
+Developer of the Data Access Controll System of Refinitive (Thomson Reuters in the past). It is the industry’s most widely used system for managing data entitlement, usage and reporting across the enterprise. Customers use DACS to manage user entitlements, ensuring proper control and auditable records of which users and applications are entitled to publish data; and whether there are entitled users who are not using their data access. More info: https://developers.refinitiv.com/en/article-catalog/article/introduction-dacs-entitlement-system-opendacs-developers
+Java stack: Tomcat; JSP; openMQ; Oracle/postgre DB. OS: RedHat/Centos; shell scripting)
+Here I'm mostly fixing bugs, coding new features and doing alot of JVM monotoring and performance/stress testing.
+
+Java Archetect in Crossover, remote work (3 y.). 
 From 07.2017 – 08.2020 I were contributing for Upland Software as a Fullstack Java Archetect of the Waterfall platform https://uplandsoftware.com/mobile-messaging/product/platform/ doing tasks in back-end using Java 7, 8 (Karaf, Gucie, Spring, Dropwizard) as well as tasks in JS front-end (Angulr, Vue, Knockout) for mobile messaging across huge subscribers audience. 
 Data in Mongo and Mysql. Destributed AWS environments.
 Assembling using Maven and Grunt; Continious Integration on Jenkins/Ancible/Travis; hosting and networking on AWS.
