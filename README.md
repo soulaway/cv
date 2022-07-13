@@ -68,9 +68,8 @@ UI Development for huge amount of customers. Front-end applications and services
 
 > Junior Scientist, Ukrainian State Scientific Research Surveyor Institute, Donetsk, 2004 – 2008 (4 y.)
 
-Collection and analysis of geophysical data; Measurements of electrical, seismic, magnetic waves reflected from terrestrial bodies. Predicting of the violations in the rock mass, determination the structure of the medium by the measured characteristics of of an electric field. 
+Collection and analysis of geophysical data; Measurements of electrical, seismic, magnetic waves reflected from terrestrial bodies. Predicting of the violations in the rock mass, determination the structure of the medium by the measured characteristics of of an electric field. See [Publications of the researches](https://github.com/soulaway/cv/blob/master/resources/geophisics-pub.md)
 
-(Publications of the researches)[https://github.com/soulaway/cv/blob/master/resources/geophisics-pub.md]
 
 **Education**
 
