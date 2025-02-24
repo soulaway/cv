@@ -2,114 +2,106 @@
 
 **Java full-stack**
 
-*5 Teremkivska str. Kiev, Ukraine*
-
 *dgsoloviev.job@gmail.com*
 
-*+38(O66) 328 2836*
+*UA: +38(O66) 328 2836*
+
+*BG: +35(987) 632 6575*
 
 ---
 
-**Personal Statement**
+**Personal Statement**  
 
-I am a passionate WEB Developer with rich full-stack background in Java. I'm focused to follow the best practices in software development and share more with my team. I wrapped up several java projects from scratch as well as dug in legacy projects to implement all the required business needs.
+Passionate and results-driven Web Developer with a strong full-stack background in Java. Adept at following and sharing the best practices in software development. Extensive experience in building Java projects from scratch and enhancing legacy applications to meet business needs. Skilled in developing scalable, high-availability, and high-load backend systems, with additional expertise in JavaScript frameworks and cloud technologies. Active AWS user since 2016. Proficient in database management, JMS programming, and software security. Experienced in Unix systems, networking, and shell scripting to support DevOps initiatives. Strong leadership and mentoring skills in agile, distributed, and multilingual teams, though primarily focused on technical expertise rather than people management.
 
-As an engineer, I'm excited about measuring things, and seeding the value onto project's backlog. I'm experienced in scalable, highly available, and high-load systems with sweet and lightweight WEB front-end.
+---
 
-I’m good in Unix, networking, and shell scripting, experience in TLS and SSL stuff, I may adjust any kind of environment or CI for the team. Architecturally I prefer distributed and lightweight microservices more than monolithic application servers because of the performance that may be achieved by horisontal scaling.
+**Education**  
 
-Other than that I’m experienced in leading, mentoring and scrum mastering the distributed multilingual agile team.
+**Donetsk National Technical University, Ukraine**  
+Specialist in Computer Information Technologies and Automatics Faculty (2001 – 2006)  
+Graduated in Automatic Systems of Management, qualified as a Computer Sciences specialist, GPA 4.6/5.0
 
 ---
 
 **Employment**
 
-*Senior Java Developer at Luxoft, Kyiv, Ukraine; 09.2020 – present time* 
+**Senior Java Developer** – Luxoft (Part-time), Sofia, Bulgaria (02.2023 – Present)  
 
-Programming of the Data Access Control System in London Stock Exchange Group (Refinitive; Thomson Reuters in the past). It is the industry’s most widely used system for managing data entitlement, usage, and reporting across the enterprise. Customers use DACS to manage user entitlements, ensuring proper control and auditable records of which users and applications are entitled to publish data; and whether there are entitled users who are not using their data access. I'm mostly fixing the bugs, coding new features, and doing JVM monitoring and performance/stress testing a lot.
+- Developing the Data Access Control System for the London Stock Exchange Group.
 
-*Java Architect at Crossover, remote; 07.2017 – 08.2020*
+**Senior Java Developer** – Luxoft, Kyiv, Ukraine (09.2020 – 02.2023)  
 
-I was contributing to Upland Software (Austin, USA) as a full-stack Java architect of the Waterfall platform doing architecture and development in the area of mobile messaging across a huge subscriber audience. My main tasks were in the integration of various applications with different stacks and building of nice stable and fault tolerant CI/CD. Within three years I became mentoring a distributed and multilingual team of developers and QAs (India, Georgia, Egypt, USA). I was writing detailed designs, and documentation of architectural concepts and led the team for successful implementation.
+- Enhanced the industry’s most widely used system for managing data entitlement, usage, and reporting.
 
-*Java Programmer at Luxoft, Kiev, Ukraine; 12.2014 – 09.2016*
+- Focused on bug fixes, new features, and integrations between various JMS providers (Oracle OpenMQ, IBM WebSphere Broker).
 
-Design and implementation of the Smart Grid microservices for Alstom (General Electric), that do time-series processing, forecasting, and demand response. Working in a distributed team, software architecture, design, and configuration; three green projects go live.
+- Conducted JVM monitoring, performance, and stress testing.
 
-*Software Engineer, Nova Poshta, Kyiv, Ukraine; 03.2014 – 12.2014*
+**Java Architect** – Crossover (Remote) (07.2017 – 08.2020)  
 
-Integration of the Java OSGI Service Bus (RedHat Jboss Fuse) onto quickly extending, logistic company. Implementation of the distributed SMS router service through Apache and RedHat java OSGi stack.
+- Participated in architecture and development of a mobile messaging platform for Upland Software (Austin, USA).
 
-*Java Software Developer, Darout LLC, Saint Petersburg, Russia; 12.2012 – 2.2014*
+- Led integrations across various tech stacks, refined CI/CD pipelines using Jenkins and AWS.
 
-Agile development of the retail business logic in ERP system at Bison Schweiz AG.
+- Mentored a distributed, multilingual team and authored about 70% of architectural documentation.
 
-*IPTV UI developer, Zodiac Interactive, Saint Petersburg, Russia; 2010 – 2012*
+**Java Programmer** – Luxoft, Kyiv, Ukraine (12.2014 – 09.2016)  
 
-UI Development for a huge amount of customers. Front-end applications and services development for Set Top Boxes, provided by CISCO and Scientific-Atlanta and powered by Zodiac PowerUp platform, writing GUI animation and client-side business logic.
+- Designed and implemented Smart Grid micro-services for Alstom (General Electric).
 
-*Junior Scientist at Ukrainian State Scientific Research Surveyor Institute, Donetsk, Ukraine; 2004 – 2008*
+- Specialized in time-series processing, forecasting, and demand response.
 
-Collection and analysis of geophysical data; Measurements of electrical, seismic, and magnetic waves reflected from terrestrial bodies. Predicting the violations in the rock mass, determining the structure of the medium by the measured characteristics of an electric field. See [Publications of the researches](https://github.com/soulaway/cv/blob/master/resources/geophisics-pub.md)
+- Configured JBoss EAP and JBoss Seam framework.
+
+**Software Engineer** – Nova Poshta, Kyiv, Ukraine (03.2014 – 12.2014)  
+
+- Integrated Java OSGi Service Bus (RedHat JBoss Fuse) into a rapidly expanding logistics company.
+
+- Developed a distributed SMS router service.
+
+**Java Software Developer** – Darout LLC, Saint Petersburg, Russia (12.2012 – 02.2014)  
+
+- Participated in development of retail business logic for an ERP system at Bison Schweiz AG.
+
+**IPTV UI Developer** – Zodiac Interactive, Saint Petersburg, Russia (2010 – 2012)  
+
+- Developed front-end applications and services for Set-Top Boxes used by CISCO and Scientific-Atlanta.
+
+**Junior Scientist** – Ukrainian Scientific Research Surveyor Institute, Donetsk, Ukraine (2004 – 2008)  
+
+- Collected and analyzed geophysical data, including seismic, electrical, and magnetic wave measurements.
+
+- Conducted research on predicting rock mass violations.
 
 ---
 
-**Education**
+**Technical Skills**  
 
-Specialist in Computer Information Technologies and Automatics Faculty, Donetsk National Technical University, Ukraine 2001 – 2006. Graduated in Automatic Systems of Management, qualified as Computer Sciences specialist, GPA 4.6 (of 5)
+- **JavaScript Frameworks:** NodeJS, AngularJS, Vue.js, TypeScript, Bootstrap, Mongo scripting.  
+
+- **Java Frameworks:** JSP, JSF (RichFaces, PrimeFaces), Thymeleaf, Spring, Spring Boot, JBoss Seam, Apache Camel.  
+
+- **Integration:** Apache CXF, JBoss RestEasy, Oracle Jersey, Apache Spark, Open GSE.  
+
+- **Dependency Injection:** Java CDI, Spring Context/Beans, Apache Blueprint, Google Guice.  
+
+- **Java Enterprise Runtime:** Apache Karaf, JBoss Fuse, JBoss AS, JBoss EAP, Jetty, Tomcat, Apache Grizzly.  
+
+- **Messaging Systems:** ActiveMQ, RabbitMQ, OpenMQ, Apache Artemis, WebSphere Broker, XMPP (Vysper, Openfire).  
+
+- **Database Technologies:** Oracle, SQL Server, MySQL, PostgreSQL, MongoDB, Cassandra, InfluxDB, Apache Solr.  
+
+- **Build & DevOps:** Ant, Maven, Jenkins, Docker, Kubernetes, AWS (EC2, CLI, S3, Route53), Terraform, Ansible, Bash scripting.  
+
+- **Testing & Monitoring:** JUnit, Arquillian, JMeter, Selenium, JConsole, VisualVM, JProfiler, Kibana, Datadog.  
 
 ---
 
-**Tech Stack**
+**Additional Information**  
 
-* JavaScript frameworks: NodeJS, AngularJS, Vue.js, Bootstrap, Mongo scripting;
+- Former Junior Scientist with [published researches](https://github.com/soulaway/cv/blob/master/resources/geophisics-pub.md) in geophysics.
 
-* Java frameworks:
+- LinkedIn: [linkedin.com/in/dmytro-soloviov-3463b349](https://www.linkedin.com/in/dmytro-soloviov-3463b349)  
 
-  * Front End: JSP, JSF (Reach Faces, Prime Faces)
-
-  * Integration: Spring, Spring Boot, Jboss Seam, Apache Camel
-
-  * Servlets: Apache CXF, Jboss RestEasy, Oracle Jersey, Apache Spark
-
-  * DI: Java CDI API, Spring Context/Beans, Apache Blueprint, Google Guice
-
-  * Data HTTP bindings: Soap(JaxB); Rest(Jackson, Gson)
-
-* Java Enterprise runtime:
-
-  * OSGI sercers: Apache Karaf, Jboss Fuse
-
-  * Java App. Servers: Jboss AS, Jboss EAP
-
-  * Servlet Containers: Jetty, Tomcat
-
-  * NIO Servers: Apache Grezzly
-
-  * XMPP Servers: Vysper, Openfire
-
-  * SMPP simulation: SMPPSim;
-
-* Databases:
-
-  * Bindings/ORM: Jpa, Hibernate, Spring Data, Morphia (Mongo ODM)
-
-  * Sql: Oracle, SqlServer, MySql, PostgreSQL
-
-  * NoSql: Mongo, Cassandra, InfluxDB
-
-  * Index Engine: Apache Solr (full text search)
-
-* Build Tools:
-
-  * Ant, Maven, Grunt, Drools, FortifyUtills, Swagger, AWS Code-Pipeline
-
-* Testing:
-
-  * JUnit, Arquilian, PAX-web, Jacoco, Soap/LoadUI, JMeter, Selenium, JMH;
-
-* Monitoring:
-  * Jconsole, Visual VM, JProfiler, Jolokia, Howtio, Kibana, Datadog
-
-* Dev Ops:
-  * AWS (EC2, CLI, S3, Route53, Bastion); Docker, Jenkins, Teamcity, Nexus, Ancible, bash scripting.
+- GitHub: [github.com/soulaway](https://github.com/soulaway)
